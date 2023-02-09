@@ -1,0 +1,15 @@
+C:\Users\Марсель\Desktop\GB\Exampel003sum\bin\Debug\net7.0\Exampel003sum.exe
+C:\Users\Марсель\Desktop\GB\Exampel003sum\bin\Debug\net7.0\Exampel003sum.deps.json
+C:\Users\Марсель\Desktop\GB\Exampel003sum\bin\Debug\net7.0\Exampel003sum.runtimeconfig.json
+C:\Users\Марсель\Desktop\GB\Exampel003sum\bin\Debug\net7.0\Exampel003sum.dll
+C:\Users\Марсель\Desktop\GB\Exampel003sum\bin\Debug\net7.0\Exampel003sum.pdb
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.csproj.AssemblyReference.cache
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.AssemblyInfoInputs.cache
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.AssemblyInfo.cs
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.dll
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\refint\Exampel003sum.dll
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.pdb
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\Exampel003sum.genruntimeconfig.cache
+C:\Users\Марсель\Desktop\GB\Exampel003sum\obj\Debug\net7.0\ref\Exampel003sum.dll
