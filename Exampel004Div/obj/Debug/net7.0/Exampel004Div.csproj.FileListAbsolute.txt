@@ -1,0 +1,15 @@
+C:\Users\Марсель\Desktop\GB\Exampel004Div\bin\Debug\net7.0\Exampel004Div.exe
+C:\Users\Марсель\Desktop\GB\Exampel004Div\bin\Debug\net7.0\Exampel004Div.deps.json
+C:\Users\Марсель\Desktop\GB\Exampel004Div\bin\Debug\net7.0\Exampel004Div.runtimeconfig.json
+C:\Users\Марсель\Desktop\GB\Exampel004Div\bin\Debug\net7.0\Exampel004Div.dll
+C:\Users\Марсель\Desktop\GB\Exampel004Div\bin\Debug\net7.0\Exampel004Div.pdb
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.csproj.AssemblyReference.cache
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.AssemblyInfoInputs.cache
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.AssemblyInfo.cs
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.dll
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\refint\Exampel004Div.dll
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.pdb
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\Exampel004Div.genruntimeconfig.cache
+C:\Users\Марсель\Desktop\GB\Exampel004Div\obj\Debug\net7.0\ref\Exampel004Div.dll
