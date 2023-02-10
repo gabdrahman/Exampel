@@ -1,0 +1,15 @@
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\bin\Debug\net7.0\Exampel005_ifEls.exe
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\bin\Debug\net7.0\Exampel005_ifEls.deps.json
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\bin\Debug\net7.0\Exampel005_ifEls.runtimeconfig.json
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\bin\Debug\net7.0\Exampel005_ifEls.dll
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\bin\Debug\net7.0\Exampel005_ifEls.pdb
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.csproj.AssemblyReference.cache
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.AssemblyInfoInputs.cache
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.AssemblyInfo.cs
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.dll
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\refint\Exampel005_ifEls.dll
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.pdb
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\Exampel005_ifEls.genruntimeconfig.cache
+C:\Users\Марсель\Desktop\GB\Exampel005_ifEls\obj\Debug\net7.0\ref\Exampel005_ifEls.dll

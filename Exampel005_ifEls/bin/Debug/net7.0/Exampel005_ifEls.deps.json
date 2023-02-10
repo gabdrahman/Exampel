@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exampel005_ifEls/1.0.0": {
+        "runtime": {
+          "Exampel005_ifEls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exampel005_ifEls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
