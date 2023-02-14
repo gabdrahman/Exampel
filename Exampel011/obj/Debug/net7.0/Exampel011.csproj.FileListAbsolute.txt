@@ -1,0 +1,15 @@
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.csproj.AssemblyReference.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.AssemblyInfoInputs.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.AssemblyInfo.cs
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\bin\Debug\net7.0\Exampel011.exe
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\bin\Debug\net7.0\Exampel011.deps.json
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\bin\Debug\net7.0\Exampel011.runtimeconfig.json
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\bin\Debug\net7.0\Exampel011.dll
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\bin\Debug\net7.0\Exampel011.pdb
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.dll
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\refint\Exampel011.dll
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.pdb
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\Exampel011.genruntimeconfig.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel011\obj\Debug\net7.0\ref\Exampel011.dll
