@@ -1,0 +1,15 @@
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.csproj.AssemblyReference.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.AssemblyInfoInputs.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.AssemblyInfo.cs
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\bin\Debug\net7.0\Exampel008.exe
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\bin\Debug\net7.0\Exampel008.deps.json
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\bin\Debug\net7.0\Exampel008.runtimeconfig.json
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\bin\Debug\net7.0\Exampel008.dll
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\bin\Debug\net7.0\Exampel008.pdb
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.dll
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\refint\Exampel008.dll
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.pdb
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\Exampel008.genruntimeconfig.cache
+C:\Users\Марсель\Desktop\Учеба\GB\Exampel008\obj\Debug\net7.0\ref\Exampel008.dll
